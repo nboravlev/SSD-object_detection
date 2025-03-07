@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 from matplotlib import patches
 import pandas as pd
 from PIL import Image
+from detect import detect
 
 
 def filterFiles(directoryPath, extension):
