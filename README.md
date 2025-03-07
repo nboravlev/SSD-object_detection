@@ -3,10 +3,12 @@
 
 Статья на тему SSD
 
-Данные для обучения модели BSSD_dataset 
+Данные для обучения модели содержаться в репозитории BSSD_dataset 
 ```bash
-!git clone https://github.com/nboravlev/Unet-segmentation.git
+!git clone https://github.com/Shenggan/BCCD_Dataset.git
 ```
 Датасет представляет из себя изображения клеток крови под микроскопом с разметкой.
+![клеток крови под микроскопом с разметкой.](https://github.com/nboravlev/SSD-object_detection/blob/main/example.jpg)
 
+Описание датасета и процесс предобработки данных также описан в указанном репозитории
 
