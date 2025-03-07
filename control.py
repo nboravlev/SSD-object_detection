@@ -34,7 +34,7 @@ else:
     print("Папка imagesBox уже существует.")
 
 for imageFileName in image_names:
-    print(f"Обрабатываю изображение: {imageFileName}")
+    #print(f"Обрабатываю изображение: {imageFileName}")
     fig = plt.figure()
     ax = fig.add_axes([0, 0, 1, 1])
     plt.axis('off')
